@@ -10,7 +10,7 @@ As a QA engineer, I was tasked with testing an e-commerce site to ensure its fun
 
 ## 🎥 Project Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/your_demo_video_id/0.jpg)](https://www.youtube.com/watch?v=your_demo_video_id)
+![Watch the Demo](https://github.com/slangslang/Guru99-Ecommerce-Live-Automation-Project/blob/main/Guru99%20Ecommerce%20Project%20(2).gif)
 
 *Preview of a test case in the project I conducted and documented with passing results*
 
