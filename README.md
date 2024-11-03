@@ -66,6 +66,7 @@ Check that discount coupons work correctly.
 <details>
 <summary>10. Export Orders to CSV</summary>
 This test scenario is for the backend website of the AUT. Verify that all orders can be exported to a CSV file and displayed in the console, and that the file can be sent as an email attachment.
+</details>
 
 ### 🧪 Tools and Technologies
 - **Language:** Java
@@ -82,7 +83,7 @@ You can view the test cases, results, change log, and bug tracking in the follow
 
 ## 🙏 Acknowledgments
 
-Special thanks to [Guru99](https://www.guru99.com/) for providing the resources and guidance for this project. 
+Special thanks to [Guru99](https://www.guru99.com/) for providing the resources and guidance for this project. If you’re interested in trying it out for yourself, check it out [here](https://www.guru99.com/live-ecommerce-project.html).
 
 ---
 
