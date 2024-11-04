@@ -63,11 +63,6 @@ Verify that a user can change or reorder previously added products.
 Check that discount coupons work correctly.
 </details>
 
-<details>
-<summary>10. Export Orders to CSV</summary>
-This test scenario is for the backend website of the AUT. Verify that all orders can be exported to a CSV file and displayed in the console, and that the file can be sent as an email attachment.
-</details>
-
 ### 🧪 Tools and Technologies
 - **Language:** Java
 - **Framework:** TestNG
